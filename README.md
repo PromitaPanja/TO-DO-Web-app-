@@ -1,2 +1,2 @@
-# TO_DOOO
+# TO DO 
 To-Do app developed using my phone Yeah, correct. I made this web app by coding on my phone and under the guidance of freecodecamp tutorial. Requirements - The first thing we need here is an Android phone, at least version 6.0 and upward. But what if I told you that's all we need? Seems too good to be true.  Now the next thing we need to do is install a mobile application on our phone called pydroid3. Also, you need to know a basic idea about Django and that's it. Enjoy coding.  And then we are good to get started!!!
